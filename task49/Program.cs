@@ -30,9 +30,9 @@ void PrintMatrix(int[,] matr)
 
 int[,] matrix = GetRandomMatrix(5, 5);
 PrintMatrix(matrix);
-for (int i = 2; i < matrix.GetLength(0); i += 2)
+for (int i = 0; i < matrix.GetLength(0); i += 2)
     {
-        for (int j = 2; j < matrix.GetLength(1); j +=2)
+        for (int j = 0; j < matrix.GetLength(1); j +=2)
         {
             matrix[i, j] = matrix[i, j] * matrix[i, j];
         }

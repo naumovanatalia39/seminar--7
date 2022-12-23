@@ -1,0 +1,15 @@
+D:\Наташина папка\GB\C#\seminar7\task51\bin\Debug\net6.0\task51.exe
+D:\Наташина папка\GB\C#\seminar7\task51\bin\Debug\net6.0\task51.deps.json
+D:\Наташина папка\GB\C#\seminar7\task51\bin\Debug\net6.0\task51.runtimeconfig.json
+D:\Наташина папка\GB\C#\seminar7\task51\bin\Debug\net6.0\task51.dll
+D:\Наташина папка\GB\C#\seminar7\task51\bin\Debug\net6.0\task51.pdb
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\task51.csproj.AssemblyReference.cache
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\task51.GeneratedMSBuildEditorConfig.editorconfig
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\task51.AssemblyInfoInputs.cache
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\task51.AssemblyInfo.cs
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\task51.csproj.CoreCompileInputs.cache
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\task51.dll
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\refint\task51.dll
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\task51.pdb
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\task51.genruntimeconfig.cache
+D:\Наташина папка\GB\C#\seminar7\task51\obj\Debug\net6.0\ref\task51.dll
