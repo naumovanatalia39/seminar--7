@@ -66,3 +66,9 @@ else
 }
 Console.WriteLine();
 Console.WriteLine($"Сумма элеменитов по диагонали равна {sum}");
+
+// через 1 цикл, проверка та же
+// for(int i = 0; i < GetLength(0); i++)
+// {
+    // sum = sum + matr[i, i];
+// }
